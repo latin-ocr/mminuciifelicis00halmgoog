@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mminuciifelicis00halmgoog/mminuciifelicis00halmgoog_0111.png"; bbox 0 0 4050 5559; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 602 2047 1362 2159">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 602 2047 1362 2159">
+     <span class='ocr_line' id='line_1_1' title="bbox 602 2047 1362 2159; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 602 2048 762 2158; x_wconf 86' lang='lat' dir='ltr'>IVLII</span> <span class='ocrx_word' id='word_1_2' title='bbox 798 2047 1042 2158; x_wconf 80' lang='lat' dir='ltr'><strong>RIRIIIGI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1077 2047 1362 2159; x_wconf 79' lang='lat' dir='ltr'><strong>MATRRNI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 445 2318 1517 2624">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 445 2318 1517 2624">
+     <span class='ocr_line' id='line_1_2' title="bbox 918 2318 1053 2401; baseline -0.007 0"><span class='ocrx_word' id='word_1_4' title='bbox 918 2318 1053 2401; x_wconf 83' lang='lat' dir='ltr'>LIBER</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 445 2536 1517 2624; baseline -0.002 -1"><span class='ocrx_word' id='word_1_5' title='bbox 445 2540 509 2623; x_wconf 85' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 547 2540 748 2624; x_wconf 84' lang='lat' dir='ltr'><strong>ERRORE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 783 2536 1144 2624; x_wconf 80' lang='lat' dir='ltr'><strong>PRORANARVM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1175 2539 1517 2623; x_wconf 80' lang='lat' dir='ltr'>RELIGIONVM.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 940 2910 1084 2918">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 940 2910 1084 2918">
+     <span class='ocr_line' id='line_1_4' title="bbox 940 2910 1084 2918; baseline 0.014 -2"><span class='ocrx_word' id='word_1_9' title='bbox 940 2910 1084 2918; x_wconf 79' lang='lat'><strong>——-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2030 5559">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2030 5559">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2030 5559; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 2030 5559; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
